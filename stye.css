@@ -1,0 +1,28 @@
+html,body{
+width: 100%;
+height: 100%;
+}
+.eagleH{
+    height: 500px;
+}
+.login{
+    text-align: right;
+}
+i{
+    color: grey;
+}
+.item{
+    width: 100vw;
+    height: 80vh;
+    text-align: center;
+}
+.iphone{
+    width: 200px;
+    height: 160px;
+}
+.bottom{
+    text-align: center;
+}
+.row{
+    justify-content: space-around;
+}
